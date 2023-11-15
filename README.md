@@ -38,7 +38,7 @@ To install and run the Martyr Program on your local machine, follow these steps:
 #### clone the Repository:
 
 ```shell
-git clone https://github.com/3odeh/Martyr-Data-Management-System.git
+git clone https://github.com/3odeh/Martyr-Data-Management-System-1.git
 ```
 
 ## Contributing
