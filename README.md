@@ -1,9 +1,7 @@
 # Martyr Data Management System
 
 ## Description
-The Martyr Program is a project that implements a data structure using sorted doubly and single linked lists. It is designed to hold information about martyrs, including their name, age, date of death, and gender. The program allows users to load a martyrs csv file, interact with the data through a graphical user interface (GUI) implemented using JavaFX, and perform various functions such as inserting new location records, updating or deleting existing records, searching for records, and generating summary reports.
-
-
+The Martyr Program is a project that implements a data structure using sorted doubly and single linked lists. It is designed to hold information about martyrs, including their name, age, date of death, and gender. The program allows users to load a martyrs file (btselem.text), interact with the data through a graphical user interface (GUI) implemented using JavaFX, and perform various functions such as inserting new location records, updating or deleting existing records, searching for records, and generating summary reports.
 
 ## Features
 
