@@ -20,11 +20,10 @@ The Martyr Program is a project that implements a data structure using sorted do
 - Save updated linked lists back to a file in the same format as the input file
 
 ## Screenshots
-![image](https://github.com/3odeh/Martyr-Data-Management-System/assets/111912140/45087804-86ec-4540-b1fd-3f5f920b056b)
- ![home](https://github.com/3odeh/Martyr-Data-Management-System/assets/111912140/1973bc76-9bf2-4544-9f05-2676b0f54110)
-![info](https://github.com/3odeh/Martyr-Data-Management-System/assets/111912140/0bf31b54-66dc-48fd-aa53-a7676817ad06)
-![statistic](https://github.com/3odeh/Martyr-Data-Management-System/assets/111912140/10630eed-763c-4822-895f-afeb110c2e07)
-
+![image](https://github.com/3odeh/Martyr-Data-Management-System/assets/111912140/a9c1badf-e555-4ee4-a9b5-5f4742037a86)
+![home](https://github.com/3odeh/Martyr-Data-Management-System/assets/111912140/1b6cb396-12e7-49ee-8557-30dbb45970cc)
+![info](https://github.com/3odeh/Martyr-Data-Management-System/assets/111912140/4007bf93-5e1f-4eef-b1f0-b4cfcf81299b)
+![statistic](https://github.com/3odeh/Martyr-Data-Management-System/assets/111912140/912532b9-840b-421d-8255-9a5140c168f6)
 
 ## Technologies Used
 - Java
