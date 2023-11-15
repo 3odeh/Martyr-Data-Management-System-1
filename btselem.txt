@@ -1,0 +1,133 @@
+Nassim Nayef Salman Fuda,26,Hebron,1/30/2023,M
+Khayri Musa Khayri Alkam,21,East Jerusalem,1/27/2023,M
+Wasim Amjad 'Aref Abu J'aus,16,Jenin,1/26/2023,M
+'Abdallah Marwan Jum'ah Musa,17,Jenin,1/26/2023,M
+Mu'tasem Mahmoud Ahmad Abu Hassan,36,Jenin,1/26/2023,M
+Nur Sami Muhammad Ghneim,22,Jenin,1/26/2023,M
+Saaeb 'Issam Mahmoud Zreiqi,25,Jenin,1/26/2023,M
+Muhammad Mahmoud Muhammad Subuh,34,Jenin,1/26/2023,M
+'Iz a-Din Yasin Jum'ah Salahat,21,Jenin,1/26/2023,M
+Majedah 'Abd al-Fatah Mahmoud 'Obeid,60,Jenin,1/26/2023,F
+Muhammad Sami Muhammad Ghneim,34,Jenin,1/26/2023,M
+'Omar Tareq 'Ali a-S'adi,24,Jenin,1/29/2023,M
+Yusef Yihya 'Abd al-Karim Muheisen,22,al-Quds,1/26/2023,M
+'Aref 'Abd a-Naser 'Aref Lahlouh,20,Tulkarm,1/25/2023,M
+Wadi' 'Abd al-'Aziz Mar'i Abu Ramuz,17,East Jerusalem,1/27/2023,M
+Muhammad 'Abed Musa Muhammad 'Ali,18,East Jerusalem,1/25/2023,M
+'Amru Khaled Lutfi al-Khmur,14,Bethlehem,1/16/2023,M
+Adham Muhammad Bassem Jabarin,26,Jenin,1/19/2023,M
+Jawad Farid Hussein Bawaqnah,57,Jenin,1/19/2023,M
+Hamdi Shaker Ahmad Abu Diyah,40,Hebron,1/17/2023,M
+Ahmad Hassan 'Abd al-Jalil Kahalah,45,Ramallah and al-Bira,1/15/2023,M
+Amjad 'Adnan Ahmad Khaliliya,20,Jenin,1/14/2023,M
+'Iz a-Din Bassem Ghaleb Hamamreh,22,Jenin,1/14/2023,M
+'Abd al-Hadi Fakhri Yusef Nazzal,18,Jenin,1/12/2023,M
+Habiballah Muhammad 'Abd a-Rahman Kmeil,26,Jenin,1/12/2023,M
+Samir 'Awni Harbi Aslan,41,al-Quds,1/12/2023,M
+Ahmad 'Amer Salim Abu Jneid,21,Nablus,1/11/2023,M
+'Amer Ghazi Mahmoud Zaytun,16,Nablus,1/5/2023,M
+Adam 'Issam Shaker 'Ayad,15,Bethlehem,1/3/2023,M
+Muhammad Samer Hassan Hushiyeh,21,Jenin,1/2/2023,M
+Fouad Mahmoud Ahmad A'bed,17,Jenin,1/2/2023,M
+Yazan Samer 'Izzat al-Ja'bari,19,Jenin,1/14/2023,M
+Ahmad 'Atef Mustafa Daraghmeh,23,Nablus,12/22/2022,M
+Jana Majdi 'Issam 'Assaf,15,Jenin,12/11/2022,F
+Sidqi Sadiq Fayeq Jabur (Zakarnah),19,Jenin,12/8/2022,M
+Tareq Fawzi 'Issa Salem (a-Damaj),26,Jenin,12/8/2022,M
+'Ata Yasin Mahmoud Shalabi,46,Jenin,12/8/2022,M
+Diyaa Muhammad Shafiq Rahimi,16,Ramallah and al-Bira,12/8/2022,M
+Mujahed Mahmoud Jum'ah Hamed,32,Ramallah and al-Bira,12/7/2022,M
+'Omar Yusef Hassan Manna',22,Bethlehem,12/5/2022,M
+'Ammar Hamdi Nayef Muflih,23,Nablus,12/2/2022,M
+Na'im Jamal 'Abd a-Rahman Zbeidi,34,Jenin,12/1/2022,M
+Muhammad Ayman Shafi' Qassem,22,Jenin,12/1/2022,M
+Muhammad Tawfiq Shaker Badarnah,27,Jenin,11/30/2022,M
+Rani Maamun Fayez Abu 'Ali,45,Ramallah and al-Bira,11/29/2022,M
+Jawad 'Abd a-Rahman 'Abd al-Jawad Rimawi,22,Ramallah and al-Bira,11/29/2022,M
+Zafer 'Abd a-Rahman 'Abd al-Jawad Rimawi,19,Ramallah and al-Bira,11/29/2022,M
+Raed Ghazi 'Eid Na'asan,21,Ramallah and al-Bira,11/29/2022,M
+Mufid Muhammad Mahmoud Khlayel,44,Hebron,11/29/2022,M
+Muhammad Hisham Muhammad Abu Kishk,23,Nablus,11/23/2022,M
+Ahmad Amjad Muhammad Shihadah,16,Nablus,11/22/2022,M
+Mahmoud 'Abd al-Jalil Huda a-S'adi,17,Jenin,11/21/2022,M
+Muhammad Murad Sami Suf,18,Nablus,11/15/2022,M
+Fullah Rasmi 'Abd al-'Aziz Maluh,14,Ramallah and al-Bira,11/14/2022,F
+Raafat 'Ali 'Abdallah 'Ayasah,29,Jenin,11/9/2022,M
+Mahdi Muhammad Hamdallah Hashash,15,Nablus,11/9/2022,M
+Mus'ab Muhammad Mahmoud Nafal,18,Ramallah and al-Bira,11/5/2022,M
+'Amer Husam Bader Halabiyah,20,East Jerusalem,11/3/2022,M
+Muhammad Samer Muhammad Khalluf,14,Jenin,11/3/2022,M
+Faruq Jamil Hassan Salamah,28,Jenin,11/3/2022,M
+Dawood Mahmoud Khalil Rayan,41,al-Quds,11/3/2022,M
+Habbas 'Abd al-Hafiz Yusef Rayan,54,Ramallah and al-Bira,11/2/2022,M
+Ramzi Sami Sa'id Zabarah,34,Nablus,10/28/2022,M
+'Imad Yusef Muhammad Abu Rashid,50,Nablus,10/28/2022,M
+Qusai Mahmoud 'Ali Tamimi,19,Ramallah and al-Bira,10/25/2022,M
+Mash'al Zahi Ahmad al-Baghdadi,26,Nablus,10/25/2022,M
+Wadi' Sabih Wadi' al-Hawah,31,Nablus,10/25/2022,M
+'Ali Khaled 'Omar 'Antar,26,Nablus,10/25/2022,M
+Hamdi Muhammad Sabri Hamed Sharaf,34,Nablus,10/25/2022,M
+Tamer Sufian Fawaz Zeid Kilani,32,Nablus,10/23/2022,M
+Rabi 'Arafah 'Adnan Rabi,32,Qalqiliya,10/22/2022,M
+Salah 'Abd a-Rahim Muhammad 'Abd a-Rahim Breiki,19,Jenin,10/21/2022,M
+Qays 'Imad Khaled Shuja'iyah,22,Ramallah and al-Bira,10/14/2022,M
+Mujahed Ahmad Muhammad Sa'id Dawood,30,Salfit,10/16/2022,M
+'Abdallah Sa'ed 'Abd al-Karim al-Ahmad,42,Jenin,10/14/2022,M
+Matin Fayeq Hussein Dabaya,25,Jenin,10/14/2022,M
+Ousamah Mahmoud Hassan 'Adawi,17,Hebron,10/12/2022,M
+Ahmad Muhammad Hussein Daraghmeh,18,Jenin,10/8/2022,M
+Mahmoud Muayad Muhammad Sus,17,Jenin,10/8/2022,M
+'Adel Ibrahim 'Adel Dawood,14,Qalqiliya,10/7/2022,M
+Mahdi Muhammad 'Abd al-Mu'ti Ladadwah,17,Ramallah and al-Bira,10/7/2022,M
+'Alaa Naser Ahmad Zaghal,21,Nablus,10/5/2022,M
+Salamah Raafat Muhammad Sa'id Sharay'ah,18,Ramallah and al-Bira,10/3/2022,M
+Khaled Fadi Muhammad 'Anbar,20,Ramallah and al-Bira,10/3/2022,M
+Fayez Khaled Mahmoud Damdum,17,al-Quds,10/1/2022,M
+'Abd a-Rahman Fathi Zidan Hazem,27,Jenin,9/28/2022,M
+Ahmad Taysir Nazmi 'Alawneh,25,Jenin,9/28/2022,M
+Muhammad Bader Mahmoud Alunah,30,Jenin,9/28/2022,M
+Muhammad Hisham Muhammad Ahmad,27,Jenin,9/28/2022,M
+Mahmoud Muhammad Khalil Samudi,12,Jenin,10/10/2022,M
+Muhammad Fadi Hani Nuri,16,Ramallah and al-Bira,10/20/2022,M
+Saed 'Adnan 'Izat Kawni,22,Nablus,9/25/2022,M
+Muhammad 'Ali Hassan 'Awad,36,Qalqiliya,9/24/2022,Mh,8/1/2014,M
+Muhammad 'Abd al-Hadi Muhammad Dheir,33,Rafah,8/1/2014,M
+Jihad Hani 'Abd al-Hadi Dheir,18,Rafah,8/1/2014,M
+Hamdi Yusef 'Alian al-Masri,46,Rafah,8/1/2014,M
+Ahmad Ibrahim Suliman al-Masri,18,Rafah,8/1/2014,M
+Khaled Suliman Ibrahim al-Masri,2,Rafah,8/1/2014,M
+Ibrahim Suliman 'Alian al-Masri,56,Rafah,8/1/2014,M
+Najiyah Yusef 'Alian al-Masri,54,Rafah,8/1/2014,F
+Ibrahim Suliman Ibrahim al-Masri,5,Rafah,8/1/2014,M
+Diaa' Ibrahim Suliman al-Masri,32,Rafah,8/1/2014,M
+Muslem Shawqi Muslem a-Najar,23,Khan Yunis,8/1/2014,M
+Raafat Jum'ah 'Awwad Zo'rub,40,Rafah,8/1/2014,M
+Muhammad Muhammad Tayyem Abu Laban,49,Gaza,8/1/2014,M
+Yihya 'Abd al-Karim 'Abd a-Rahim Lafy,22,Rafah,8/1/2014,M
+Yusef Nidal Muhammad Abu Rizeq,20,Rafah,8/1/2014,M
+'Ammar Ibrahim 'Abd al-'Aziz a-Najar,32,Khan Yunis,8/1/2014,M
+'Alaa Jamal 'Ali Abu Shamaleh,25,Khan Yunis,8/1/2014,M
+'Udai Nafez Fakhri Jaber,19,Ramallah and al-Bira,8/1/2014,M
+'Abdallah Naser Khalil Fahjan,20,Rafah,8/1/2014,M
+'Abd a-Rahman Muhammad Hamdan Abu Darb,18,Rafah,8/1/2014,M
+Salah Ziad Musa,29,Gaza,8/1/2014,M
+Muhammad Zayed Salem al-Barim,25,Khan Yunis,8/1/2014,M
+Sami Nafel Salam Sheikh al-'Eid,42,Rafah,8/1/2014,M
+Nidal 'Issa Ahmad a-Nahal,23,Rafah,8/1/2014,M
+Ibrahim 'Abdallah Muhammad Jarghon,54,Rafah,8/1/2014,M
+Ousamah Hussein Hassan Abu Sneimah,30,Rafah,8/1/2014,M
+Ibrahim Anwar Khalil a-Sha'er,15,Rafah,8/1/2014,M
+Muhammad Anas Muhammad 'Arafat,0,Rafah,8/1/2014,M
+'Itaf Hammad Salman al-Mahmum,30,Rafah,8/1/2014,F
+Bisan Mustafa Naser al-Mahmum,9,Rafah,8/1/2014,F
+'Obadah Mustafa Naser al-Mahmum,0,Rafah,8/1/2014,M
+Ibtesam Hammad Salman al-Mahmum,18,Rafah,8/1/2014,F
+Hibah Mustafa Naser al-Mahmum,7,Rafah,8/1/2014,F
+Yihya Salem Suliman al-Mahmum,13,Rafah,8/2/2014,M
+Su'ad Jum'ah Hammad a-Tarabin,30,Rafah,8/1/2014,F
+Wafa Salem Suliman al-Mahmum,24,Rafah,8/2/2014,F
+Du'aa Mustafa Naser al-Mahmum,4,Rafah,8/1/2014,F
+Iqzayah Hammad Salman al-Mahmum,36,Rafah,8/1/2014,F
+Asmaa Salem Suliman al-Mahmum,16,Rafah,8/1/2014,F
+Hani Salem Suliman al-Mahmum,23,Rafah,8/2/2014,M
+'Aziza Mahmoud Salamah al-Mahmum,49,Rafah,8/2/2014,F
